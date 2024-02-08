@@ -1,6 +1,14 @@
 ### Hi 👋 I'm Nikita Goswami
 
-I'm a dedicated Full Stack Web Development Aspirant, proficient in Front-end Web Development, who likes to do creativity while learning. I am hard-working, dedicated, and disciplined in my tech field.
+I'm a dedicated Full Stack Web Development Aspirant, proficient in Front-end Web Development, who likes to do creativity while learning. I am hard-working, dedicated, and disciplined in my tech field.😄
+
+I'm based in Uttarakhand,India.
+Some technologies that I love working with include MERN Stack, Typescript, and web testing.
+I have learned HTML, CSS, Javascript, Python, basic data structures, and React.
+I am interested in learning about Blockchain technology.
+E-mail: nikitagoswami09@gmail.com
+portfolio:
+
 
 <!--
 **NikitaGoswami09/NikitaGoswami09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .
 -->
