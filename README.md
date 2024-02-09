@@ -4,15 +4,15 @@
 <h3 align="center">A dedicated Full Stack Web Development Aspirant, proficient in Front-end Web Development, who likes to do creativity while learning. I am hard-working, dedicated, and disciplined in my tech field.I'm based in Uttarakhand , India. Some technologies that I love working with include MERN Stack, Typescript, and web testing.I have learned HTML, CSS, Javascript, Python, basic data structures, and React. I am interested in learning about Blockchain technology.</h3>
 <img align=”right” alt=”coding” width=”400” src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU>
 
-- 🏫 I am currently studying Full Stack Web Development at Prepleaf by Masai [At Prepleaf by Masai](At Prepleaf by Masai)
+- 🏫 I am currently studying Full Stack Web Development at Prepleaf by Masai 
 
 - 📚 I am currently learning **React**
 
 - 💬 Ask me about **React,HTML,CSS, Javascript,Python, Basic DSA**
 
-- 📫 How to reach me **nikitagoswami09@gmail.com**
+- 📫 How to reach me - **nikitagoswami09@gmail.com**
 
-- ⚡ Fun fact **I think I am funny😊**
+- ⚡ Fun fact - **I think I am funny😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
